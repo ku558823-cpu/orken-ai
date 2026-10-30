@@ -1,0 +1,6 @@
+{
+  "name": "ORKEN AI Governance Platform",
+  "description": "Enterprise-grade AI Governance, Security, and Compliance platform operationalizing ISO 42001, EU AI Act, and continuous AI Agent monitoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
